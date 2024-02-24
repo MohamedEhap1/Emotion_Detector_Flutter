@@ -1,16 +1,10 @@
-# emotion_detector
 
-A new Flutter project.
+# Emotion Detector
 
-## Getting Started
+This app tracking and analyzing your emotions over time, you can gain insights into your patterns of emotional responses and better understand your own emotional well-being.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![App Screenshot](https://github.com/MohamedEhap1/Emotion_Detector_Flutter/blob/master/Blue%20And%20White%20Modern%20App%20Launch%20Mobile%20Phone%20Photo%20Frame%20Facebook%20Post.png?raw=true)
